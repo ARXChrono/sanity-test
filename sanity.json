@@ -16,7 +16,7 @@
   ],
   "env": {
     "development": {
-      "plugins": ["@sanity/vision", "mux-input"]
+      "plugins": ["@sanity/base", "@sanity/vision", "mux-input"]
     }
   },
   "parts": [
